@@ -1,0 +1,25 @@
+.contact { 
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #21325e;
+    color: #f0f0f0;
+    background-image: url(/public/BACKGROUND.jpg);
+  background-size: cover; 
+}
+.contact h1 {
+    position: relative;
+    top: -190px;
+}
+
+.joePicture3 {
+    position: relative;
+    top: -10px;
+    right: 10px;
+    height: 100px;
+    width: 100px;
+}
