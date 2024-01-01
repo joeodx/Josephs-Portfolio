@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import { ProjectList } from "./Projectlist"
-import { DiGithubBadge } from "react-icons/di";
+
 import "../styles/Projectdisplay.css";
 
 function ProjectDisplay() {
@@ -10,7 +10,7 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1>name={project.name}</h1>
-      <img src={project.image} />
+      <img alt="pic" src={project.image} />
     </div>
   );
 }
