@@ -27,16 +27,35 @@ The art of making people laugh through stand-up taught me the invaluable skill o
 <br></br> And then my charity background where I learned empathy and adaptability, <br></br>and the ability to work with purpose to make a differnce.
 <br></br>So thank-you for visiting my portfolio and I hope we can build something cool together soon!</p>
 
-<div class="picture">
-<img className="joePicture2" src="../JOE2.png" alt="joe" />
-</div>
 <div>
+<img className="joePicture2" src="../JOE2.png" alt="joe" />
+
+
 <img className="gamecube" src="../gamecube.png" alt="game" />
+
+
+<img className="van" src="../van.jpg" alt="game" />
+
+
+<img className="view" src="../view.jpg" alt="game" />
+
+
+<img className="standup" src="../stand.jpg" alt="game" />
+
+
+<img className="st" src="../st.jpg" alt="game" />
+
+
+<img className="face" src="../face.jpg" alt="face" />
+
+
+<img className="code" src="../code.jpg" alt="st" />
+
+
+<img className="arsenal" src="../arsenal.jpg" alt="arse" />
+
+
+<img className="travel" src="../travel.jpg" alt="face" />
 </div>
   </div>
-  
-
-  
-
-  
 )}

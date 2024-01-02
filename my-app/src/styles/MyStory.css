@@ -15,27 +15,97 @@
  
 }
 .story {
-  font-size: 23px;
+  font-size: 20px;
   position: relative;
-  top: -240px;
-  right: 350px;
+  top: -130px;
+  right: 450px;
   text-align: justify;
+  
 }
 
 .joePicture2 {
 position: relative;
-top: -75px;
-right: 0px;
+top: -100px;
+right: -880px;
 height: 110px;
 width: 110px;
 }
 
 .gamecube {
   position: relative;
-  top: -320px;
-  left:-600px;
+  top: -120px;
+  left:-00px;
   height: 200px;
   width: 250px;
+}
+
+.view {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 750px;
+  top: -200px;
+  z-index: 1;
+}
+
+.van {
+  height: 220px;
+  width: 250px;
+  position: relative;
+  left: 950px;
+  top: -400px;
+}
+
+.travel {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 800px;
+  top: -250px;
+  z-index: 1;
+}
+
+.standup {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 750px;
+  top: -500px;
+  
+}
+.st {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 450px;
+  top: -350px;
+}
+
+.face {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 240px;
+  top: -180px;
+}
+
+.code {
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 130px;
+  top: -280px;
+  z-index: 1;
+}
+
+.arsenal {
+  
+  height: 250px;
+  width: 250px;
+    position: relative;
+    left: 780px;
+    top: -270px;
+  
 }
 
 
