@@ -1,0 +1,41 @@
+
+.mystory { 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #21325e;
+  color: #f0f0f0;
+  background-image: url(/public/BACKGROUND.jpg);
+ background-position: flex;
+  background-size: cover; 
+  display: flex;
+  width: 100%;
+  height: 1200px;
+ 
+}
+.story {
+  font-size: 23px;
+  position: relative;
+  top: -240px;
+  right: 350px;
+  text-align: justify;
+}
+
+.joePicture2 {
+position: relative;
+top: -75px;
+right: 0px;
+height: 110px;
+width: 110px;
+}
+
+.gamecube {
+  position: relative;
+  top: -320px;
+  left:-600px;
+  height: 200px;
+  width: 250px;
+}
+
+

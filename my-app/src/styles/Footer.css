@@ -1,0 +1,36 @@
+.footer {
+    width: auto;
+    height: 200px;
+    background-color: #bea060;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    border: 2px solid white;
+  }
+  
+  .socialMedia svg {
+    color: white;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+  }
+  
+  .footer p {
+    color: white;
+    width: 40%;
+    font-size: 30px;
+      background-color: #bea060;
+      transition: 0.7s;
+    
+  }
+  
+  .footerSymbols {
+    font-size: xx-large;
+  }
+  @media only screen and (max-width: 600px) {
+    .footer svg {
+      font-size: 50px;
+    }
+  }
