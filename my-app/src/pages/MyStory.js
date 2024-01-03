@@ -9,8 +9,9 @@ export default function MyStory() {
 return (
 <div class="mystory">
 
-<p class="story">It all started when I got bored with Smash Brothers and decided to take apart my GameCube (Sorry Santa) with a toolkit (Sorry Dad) as a kid.<br></br>
-
+<p class="story">
+  <span class="one">It All Started When I Got Bored With Smash Brothers And Decided To Take <br></br>Apart My GameCube (Sorry Santa) With A Toolkit (Sorry Dad) As A Kid...</span><br></br>
+<br></br>
 Little did I know that taking apart that gaming console would kickstart a wild ride into the world of technology and coding. 
 
 <br></br>Life threw curveballs, though, and instead of pursuing these passions professionally,<br></br> I found myself working behind the scenes in the film industry and later, making a difference in the charity sector.<br></br>
@@ -25,7 +26,8 @@ The art of making people laugh through stand-up taught me the invaluable skill o
 <br></br>The film industry, where I learned the art of storytelling, attention to detail, and the magic that happens when creativity meets technology.
 
 <br></br> And then my charity background where I learned empathy and adaptability, <br></br>and the ability to work with purpose to make a differnce.
-<br></br>So thank-you for visiting my portfolio and I hope we can build something cool together soon!</p>
+<br></br>So thank-you for visiting my portfolio and I hope we can build something cool together soon!
+<br></br></p>
 
 <div>
 <img className="joePicture2" src="../JOE2.png" alt="joe" />
@@ -56,6 +58,16 @@ The art of making people laugh through stand-up taught me the invaluable skill o
 
 
 <img className="travel" src="../travel.jpg" alt="face" />
+
+<img className="zoom" src="../Zoom.jpg" alt="zoom" />
+
+<img className="standups" src="../standups.jpg" alt="zoom" />
+
+<img className="camera" src="../camera.jpg" alt="zoom" />
+
+<img className="travel2" src="../travel2.jpg" alt="zoom" />
+
+<img className="charity" src="../charity.jpg" alt="zoom" />
 </div>
   </div>
 )}

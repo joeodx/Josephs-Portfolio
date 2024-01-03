@@ -11,9 +11,11 @@ export default function Contact() {
   return (
     
     <div className="contact">
-      <h1>My Linkedin < FaLinkedin /></h1>
-     <h1>My Githubithub < DiGithubBadge /></h1>      <h1>My Email < MdOutlineEmail /> </h1> 
-      <h1>My Number ***********</h1>
+      <span className="two">Let build something cool together!!</span>
+      <span className="three">My Linkedin < FaLinkedin /></span>
+     <span className="four">My Github < DiGithubBadge /></span>
+     <span clasName="ive">My Email < MdOutlineEmail /></span>
+      <span className="six">My Number ***********</span>
     
 
     

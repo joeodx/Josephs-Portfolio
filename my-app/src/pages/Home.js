@@ -20,7 +20,9 @@ function Home() {
       </h2>
       <p className="paragraph">
           A Full Stack Developer With A Passion For Learning, Problem Solving
-          And Creating.
+          And Creating. <br></br>
+          Thank-You For Checking Out My Coding Portfolio!
+        
         </p>
       <div className="prompt">
        

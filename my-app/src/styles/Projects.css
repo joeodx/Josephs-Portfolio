@@ -2,7 +2,7 @@
     
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+
   text-align: center;
   background-color: #21325e;
   color: #f0f0f0;
@@ -10,11 +10,8 @@
  background-position: flex;
   background-size: cover; 
   
-    width: 100%;
-    height: 1200px;
-    font-size: 30px;
-    top: 260px;
-   
+  width: 100%;
+  height: 1200px;
  
 }
 
@@ -26,31 +23,43 @@
   }
   
   .projectList {
-    width: 70vw;
-    height: auto;
+    width: 5px;
+    height: 100px;
+    position: relative;
+    top: 105px;
+    left: 695px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
-    position: flex;
+    border-left: 10px;
+    
+    
   }
   
   /* MENU ITEM STYLING */
   
   .projectItem {
-    border-radius: 15px;
+  
     width: 250px;
     height: 260px;
-    margin: 40px;
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+   
     text-align: right;
-
-    position: flex;
-    top: -125px;
+    position: relative;
+    top: -70px;
+    right: 20px;
+    border-style: outset; 
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+   
   }
   .projectItem:hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
-    transition: 0.3s ease-in;
+    box-shadow: 0px 7px 15px rgba(251, 251, 251, 0.5);
+    transition: 0.4s ease-in;
     cursor: pointer;
+    
   }
   
   .projectItem .bgImage {
@@ -74,14 +83,19 @@
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     line-height: 0.9em;
     color: #bea060;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
   }
 
-  .joePicture2 {
-    height: 220px;
-  width: 220px;
-  position: flex;
-  top: 565px;
-  right: 425px;
+  .joePicturetwo {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  top: 165px;
+  right: -215px;
 
   }
 
@@ -92,43 +106,45 @@
     position:relative;
     top: 130px;
     right: 20px;
+    box-shadow: 0px 7px 15px rgba(251, 251, 251, 0.5);
+transition: 0.4s ease-in;
 }
   
 .javascriptSymbol2 {
     position:relative;
       top: -180px;
-      right: -255px;
+      right: -555px;
   }
   
   .cssSymbol2 {
     position:relative;
     top: -230px;
-    right: -230px;
+    right: 630px;
   }
   
   .gitSymbol2 {
     position:relative;
-    top: -438px;
-    right: -485px;
+    top: -138px;
+    right: -885px;
   }
   
   .nodeSymbol2 {
     position:relative;
     top: -305px;
-    right: 660px;
+    right: 960px;
   }
   
   .databaseSymbol2 {
     position:relative;
-    top: -390px;
-    right: -185px;
+    top: -490px;
+    right: -885px;
   
   }
   
   .figmaSymbol2 {
     position:relative;
     top: -160px;
-    right: -310px;
+    right: -810px;
   }
   .htmlSymbol2 { 
     position:relative;
@@ -138,36 +154,15 @@
 
   .reactSymbol2 {
     position:relative;
-    top: -270px;
-    right: 565px;
+    top: -370px;
+    right: 1065px;
 
   }
 
   .typescript {
    position: relative;
-   top: -500px;
-   right: -575px ;
+   top: -700px;
+   right: -875px ;
   }
   
-  @media only screen and (max-width: 1300px) {
-    .projectList {
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-  
-  @media only screen and (max-width: 800px) {
-    .projectList {
-      grid-template-columns: 1fr;
-    }
-  }
-  
-  @media only screen and (max-width: 800px) {
-    .projectList {
-      width: 100%;
-    }
-    .projectItem {
-      width: 300px;
-      height: 300px;
-    }
-  }
-  
+ 

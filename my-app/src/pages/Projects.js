@@ -22,7 +22,7 @@ function Projects() {
             return <ProjectItem id={idx} name={project.name}  image={project.image} />
            })}
            <div>
-          <img className="joePicture2" src="../JOE2.png" alt="joe2" />
+          <img className="joePicturetwo" src="../JOE2.png" alt="joe2" />
         </div>
         <div className="javascriptSymbol2">
           <IoLogoJavascript />
