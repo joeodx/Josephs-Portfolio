@@ -13,7 +13,7 @@ function Footer() {
       <DiGithubBadge />
           <FaLinkedin />
           <FaInstagram /></div>
-      <p>&copy; 2023 JosephPortfolio.com. Built using <FaReact /> </p>
+      <p>&copy; 2023 Joseph-ODonovan-Portfolio.com Built using <FaReact /> </p>
     </div>
   );
 }

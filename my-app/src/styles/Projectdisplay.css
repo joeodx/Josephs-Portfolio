@@ -18,8 +18,8 @@
   font-size: 70px;
   line-height: 0.9em;
   color: #bea060;
-  height: 50px; position: flex;
-  top: 50px;
+  height: 50px; position: relative;
+  top: -20px;
   }
   .project img {
     width: 500px;
@@ -27,22 +27,44 @@
     border-radius: 10px;
     position: relative;
     border: #bea060;
+    right: -700px;
    
   }
   
   .project p {
-    font-size: 30px;
+    font-size: 20px;
     color: #f0f0f0;
     position: relative;
-    top:-500px;
-    right: 600px;
-    border: 1px;
-    inline-size:300px;
-    
+    top:-630px;
+    right: 620px;
+    border: bold white;
+    inline-size:700px;
+    box-shadow: 0px 7px 15px rgba(245, 245, 245, 0.5);
+    transition: 0.4s ease-in;
+  
   }
   
   .project svg {
     font-size: 60px;
-    color: #3e497a;
+    color: #ffffff;
     
+  }
+
+
+
+  .link {
+    box-shadow: 0px 7px 15px rgba(245, 245, 245, 0.5);
+    transition: 0.4s ease-in;
+    text-align: center;
+    position: relative;
+    top:-1100px;
+   
+  }
+
+  .deploy {
+    box-shadow: 0px 7px 15px rgba(245, 245, 245, 0.5);
+    transition: 0.4s ease-in;
+    text-align: center;
+    position: relative;
+    top:-1100px;
   }

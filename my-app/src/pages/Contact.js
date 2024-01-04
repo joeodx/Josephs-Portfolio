@@ -2,28 +2,32 @@ import React from "react";
 import { DiGithubBadge } from "react-icons/di";
 import { FaLinkedin } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
-import "../styles/Contact.css"
+import { IoLocationSharp } from "react-icons/io5";
+import { SlBubble } from "react-icons/sl";
+import "../styles/Contact.css";
+
 
 
 
 
 export default function Contact() {
-  return (
-    
+  return (  
     <div className="contact">
       <span className="two">Let build something cool together!!</span>
-      <span className="three">My Linkedin < FaLinkedin /></span>
-     <span className="four">My Github < DiGithubBadge /></span>
-     <span clasName="ive">My Email < MdOutlineEmail /></span>
-      <span className="six">My Number ***********</span>
-    
+      <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/" ><span className="three">My Linkedin < FaLinkedin /></span> </a>
+      <a href="https://github.com/joeodx"><span className="four">My Github < DiGithubBadge /></span> </a>
+     <span className="five">My Email < MdOutlineEmail /></span>
 
-    
-     
-    
+      <span className="location"><IoLocationSharp />London - Willing To Relocate!</span>
+
     <img className="joePicture3" src="../JOE2.png" alt="joe" />
+    <div className="six">
+    <SlBubble  size={290}/>
+    </div>
+    <span className="seven">"Follow My 100 Days Of Code Challenge by Clicking On My Linkedin Above!"</span>
+
   </div>
-    
+
   )
 }
 

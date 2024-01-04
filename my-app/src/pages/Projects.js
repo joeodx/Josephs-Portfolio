@@ -11,6 +11,9 @@ import { FaNode } from "react-icons/fa";
 import { CiDatabase } from "react-icons/ci";
 import { FaHtml5 } from "react-icons/fa";
 import { TbBrandTypescript } from "react-icons/tb";
+import { BiLogoTailwindCss } from "react-icons/bi";
+import { TbBrandVercel } from "react-icons/tb";
+import { SlBubble } from "react-icons/sl";
 
 
 function Projects() {
@@ -24,34 +27,44 @@ function Projects() {
            <div>
           <img className="joePicturetwo" src="../JOE2.png" alt="joe2" />
         </div>
-        <div className="javascriptSymbol2">
+        <div className="prompt">
+        <div className="javascriptSymbol3">
           <IoLogoJavascript />
         </div>
-        <div className="reactSymbol2">
+        <div className="reactSymbol3">
           <FaReact />
         </div>
-        <div className="cssSymbol2">
+        <div className="cssSymbol3">
           <FaCss3Alt />
         </div>
-        <div className="figmaSymbol2">
+        <div className="figmaSymbol3">
           <FaFigma />
         </div>
-        <div className="nodeSymbol2">
+        <div className="nodeSymbol3">
           <FaNode />
         </div>
-        <div className="gitSymbol2">
+        <div className="gitSymbol3">
           <DiGithubBadge />
         </div>
-        <div className="databaseSymbol2">
+        <div className="databaseSymbol3">
           <CiDatabase />
         </div>
-        <div className="htmlSymbol2">
+        <div className="htmlSymbol3">
           <FaHtml5 />
         </div>
-        <div className="typescript">
+        <div className="typescript3">
           <TbBrandTypescript  />
         </div>
-        
+        <div className="tailwind3">
+           <BiLogoTailwindCss /> 
+        </div>
+        <div className="vercel3">
+           <TbBrandVercel  /> 
+        </div>
+        <div className="speech2">
+           <SlBubble />
+        </div>
+        </div>
       </div>
     </div>
   );

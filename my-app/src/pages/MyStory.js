@@ -12,21 +12,21 @@ return (
 <p class="story">
   <span class="one">It All Started When I Got Bored With Smash Brothers And Decided To Take <br></br>Apart My GameCube (Sorry Santa) With A Toolkit (Sorry Dad) As A Kid...</span><br></br>
 <br></br>
-Little did I know that taking apart that gaming console would kickstart a wild ride into the world of technology and coding. 
+• Little did I know that taking apart that gaming console would kickstart a wild ride into the world of technology and coding. 
 
-<br></br>Life threw curveballs, though, and instead of pursuing these passions professionally,<br></br> I found myself working behind the scenes in the film industry and later, making a difference in the charity sector.<br></br>
+<br></br>• Life threw curveballs, though, and instead of pursuing these passions professionally,<br></br> • I found myself working behind the scenes in the film industry and later, making a difference in the charity sector.<br></br>
 
-I even thought stand-up comedy was my calling. <br></br>Yet after traveling the world, which gave me the courage to take the plunge and pursue that curiosity that got me<br></br> to open that GameCube all those years ago.<br></br>
+• I even thought stand-up comedy was my calling. <br></br>• Yet after traveling the world, which gave me the courage to take the plunge and pursue that curiosity that got me<br></br> to open that GameCube all those years ago.<br></br>
 
-Fast forward to the present, my coding journey found its home at the School of Code boot camp.<br></br> I took the plunge. Here, the amalgamation of my diverse experiences became apparent. <br></br>
+• Fast forward to the present, my coding journey found its home at the School of Code boot camp.<br></br>• I took the plunge. Here, the amalgamation of my diverse experiences became apparent. <br></br>
 
 
 
-The art of making people laugh through stand-up taught me the invaluable skill of connecting with diverse audiences. 
-<br></br>The film industry, where I learned the art of storytelling, attention to detail, and the magic that happens when creativity meets technology.
+•The art of making people laugh through stand-up taught me the invaluable skill of connecting with diverse audiences. 
+<br></br>• The film industry, where I learned the art of storytelling, attention to detail, and the magic that happens when creativity meets technology.
 
-<br></br> And then my charity background where I learned empathy and adaptability, <br></br>and the ability to work with purpose to make a differnce.
-<br></br>So thank-you for visiting my portfolio and I hope we can build something cool together soon!
+<br></br>• And then my charity background where I learned empathy and adaptability, <br></br> and the ability to work with purpose to make a differnce.
+<br></br>• So thank-you for visiting my portfolio and I hope we can build something cool together soon!
 <br></br></p>
 
 <div>
@@ -68,6 +68,7 @@ The art of making people laugh through stand-up taught me the invaluable skill o
 <img className="travel2" src="../travel2.jpg" alt="zoom" />
 
 <img className="charity" src="../charity.jpg" alt="zoom" />
+<img className="soc" src="../schoolofcode.png" alt="soc" />
 </div>
   </div>
 )}
