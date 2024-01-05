@@ -12,6 +12,7 @@ import { CiDatabase } from "react-icons/ci";
 import { FaHtml5 } from "react-icons/fa";
 
 
+
 function Home() {
   return (
     <div className="about">

@@ -22,20 +22,21 @@
   top: -20px;
   }
   .project img {
-    width: 500px;
-    height: 600px;
+    width: 450px;
+    height: 800px;
     border-radius: 10px;
     position: relative;
     border: #bea060;
     right: -700px;
+    
    
   }
   
   .project p {
-    font-size: 20px;
+    font-size: 21px;
     color: #f0f0f0;
     position: relative;
-    top:-630px;
+    top:-834px;
     right: 620px;
     border: bold white;
     inline-size:700px;
@@ -46,7 +47,7 @@
   
   .project svg {
     font-size: 60px;
-    color: #ffffff;
+    color: #bea060;
     
   }
 
@@ -57,7 +58,10 @@
     transition: 0.4s ease-in;
     text-align: center;
     position: relative;
-    top:-1100px;
+    top:-1300px;
+    right: -50px;
+    color: #bea060;
+    font-size: 30px;
    
   }
 
@@ -66,5 +70,46 @@
     transition: 0.4s ease-in;
     text-align: center;
     position: relative;
-    top:-1100px;
+    top:-1500px;
+    right: -40px;
+    color: #bea060;
+    font-size: 30px;
+  }
+
+   .joePicture6{
+    
+    position: relative;
+    top: -820px;
+    left:  -170px;
+    
+  }
+
+  .bubble {
+    position: relative;
+    top:-1260px;
+    right:420px;
+    transform: rotate(180deg);
+transform: scaleX(-1);
+color: #f0f0f0;
+  }
+
+  .bub {
+   
+    position: relative;
+    color: #ffffff;
+    font-size: 18.3px;
+    top:-1601px;
+    right:410px;
+    font-weight: 700;
+    font-style: italic;
+  border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+   
+  
+  
+  inline-size:290px;
+
   }

@@ -10,9 +10,12 @@ import Rain from "./Components/Rain";
 import MyStory from "./pages/MyStory";
 
 
+
+
 function App() {
   return (
       <Router>
+    
         <Navbar />
         <Rain />
         <Routes>

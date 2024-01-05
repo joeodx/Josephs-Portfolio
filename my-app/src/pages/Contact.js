@@ -13,7 +13,8 @@ import "../styles/Contact.css";
 export default function Contact() {
   return (  
     <div className="contact">
-      <span className="two">Let build something cool together!!</span>
+      <span className="two">Let's build something cool together!
+      </span>
       <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/" ><span className="three">My Linkedin < FaLinkedin /></span> </a>
       <a href="https://github.com/joeodx"><span className="four">My Github < DiGithubBadge /></span> </a>
      <span className="five">My Email < MdOutlineEmail /></span>
