@@ -74,6 +74,7 @@ image: weather,
         <br></br></>
     
       ),
-    link: <a href="https://github.com/SchoolOfCode/Team-expedition" target="_blank" rel="noreferrer" ><DiGithubBadge /></a>,
+      speech:'"I think what I learnt most from this project was the unpredictabitly of using free public APIS. You pay for what you get and when its free it can be sometiems unreliable. However it was a good way of learning how to incoperate and fetch the information you neededfrom those kind of Apisgit "',
+    link: <a href="https://github.com/SchoolOfCode/bc15-w3-d5-WEATHER-API" target="_blank" rel="noreferrer" ><DiGithubBadge /></a>,
     demo: <a href="https://github.com/SchoolOfCode/Team-expedition" target="_blank" rel="noreferrer" ><RiPresentationLine /> </a>,
     deployed: <a href="https://github.com/SchoolOfCode/Team-expedition" target="_blank" rel="noreferrer" ><TbBrandVercel /> </a>, }]
