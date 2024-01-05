@@ -13,6 +13,7 @@ import { FaHtml5 } from "react-icons/fa";
 
 
 
+
 function Home() {
   return (
     <div className="about">
@@ -28,15 +29,15 @@ function Home() {
       <div className="prompt">
        
         <div className="symbols">
-          <a href="https://github.com/joeodx">
+          <a href="https://github.com/joeodx" target="_blank" rel="noreferrer" >
             {" "}
             <DiGithubBadge />{" "}
           </a>
-          <a href="https://joseph-o-donovan-878985288">
+          <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/" target="_blank" rel="noreferrer" >
             {" "}
             <FaLinkedin />{" "}
           </a>
-          <a href="https://www.instagram.com/joeodx/">
+          <a href="https://www.instagram.com/joeodx/" target="_blank" rel="noreferrer" >
             {" "}
             <FaInstagram />{" "}
           </a>

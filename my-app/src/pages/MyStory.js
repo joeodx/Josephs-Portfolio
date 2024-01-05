@@ -10,7 +10,7 @@ return (
 <div class="mystory">
 
 <p class="story">
-  <span class="one">It All Started When I Got Bored With Smash Brothers And Decided To Take <br></br>Apart My GameCube (Sorry Santa) With A Toolkit (Sorry Dad) As A Kid...</span><br></br>
+  <span class="one">It all started when I got bored with smash brothers and decided to take <br></br>apart my GameCube (sorry Santa) with A toolkit (sorry Dad) as a kid...</span><br></br>
 <br></br>
 • Little did I know that taking apart that gaming console would kickstart a wild ride into the world of technology and coding. 
 

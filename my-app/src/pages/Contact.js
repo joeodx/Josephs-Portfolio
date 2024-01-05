@@ -15,9 +15,9 @@ export default function Contact() {
     <div className="contact">
       <span className="two">Let's build something cool together!
       </span>
-      <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/" ><span className="three">My Linkedin < FaLinkedin /></span> </a>
-      <a href="https://github.com/joeodx"><span className="four">My Github < DiGithubBadge /></span> </a>
-     <span className="five">My Email < MdOutlineEmail /></span>
+      <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/" target="_blank" rel="noreferrer"  ><span className="three">My Linkedin < FaLinkedin /></span> </a>
+      <a href="https://github.com/joeodx" target="_blank" rel="noreferrer" ><span className="four">My Github < DiGithubBadge /></span> </a>
+     <a href="https://www.linkedin.com/in/joseph-o-donovan-878985288/"><span className="five">My Email < MdOutlineEmail /></span></a>
 
       <span className="location"><IoLocationSharp />London - Willing To Relocate!</span>
 
