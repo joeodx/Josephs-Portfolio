@@ -65,7 +65,7 @@ image: weather,
 <br>
 </br><br></br>
 
-•Under the Weather' isn't just a weather app; it's my coding adventure. With every line of code, I discovered the thrill of bringing data to life and creating a personal user experience.
+•Under the Weather' isn't cjust a weather app; it's my coding adventure. With every line of code, I discovered the thrill of bringing data to life and creating a personal user experience.
 <br></br> <br></br>• This app is not just about weather updates; it's about embracing the excitement of learning and coding. Your weather updates, my way  all thanks to 'Under the Weather.'
         <br></br>
         <br></br>
